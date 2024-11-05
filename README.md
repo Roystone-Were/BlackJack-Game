@@ -31,5 +31,5 @@ This project is a beginner-friendly implementation of the popular card game Blac
 project-directory/
 │
 ├── index.html      # HTML structure of the Blackjack game
-├── style.css       # Stylesheet (if additional styling is applied)
+├── style.css       # Stylesheet
 └── index.js        # JavaScript logic for the Blackjack game
